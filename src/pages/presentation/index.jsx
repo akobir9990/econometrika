@@ -59,7 +59,7 @@ function index() {
           <h1 className="text-3xl p-3">Презентация-{item.id}</h1>
           <p className="p-3">{item.name}</p>
           <div className="flex justify-between m-2">
-            <NavLink to="">
+            <NavLink to={item.path}>
               <Button variant="outlined">открыть</Button>
             </NavLink>
             <a href={item.url} download={item.name}>
