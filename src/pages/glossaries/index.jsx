@@ -1,4 +1,5 @@
 import React from "react";
+import { Button } from "@mui/material";
 
 import one from "./images/1.svg";
 import two from "./images/2.svg";
@@ -11,7 +12,8 @@ import eight from "./images/8.svg";
 import nine from "./images/9.svg";
 import ten from "./images/10.svg";
 import eleven from "./images/11.svg";
-import { Button } from "@mui/material";
+
+import Glossaries from './pdf/Глоссарий.pdf'
 
 function index() {
   const items = [
@@ -29,9 +31,11 @@ function index() {
   ];
   return (
     <div>
-      <div className="flex justify-between ">
-        <h1>Glossaries</h1>
-        <Button variant="contained">Download</Button>
+      <div className="fitems-center uppercase font-bold text-4xl flex flex-row justify-between">
+        <h1>Глоссарий</h1>
+        <a href={Glossaries} download="Глоссарий">
+          <Button variant="contained">Download</Button>
+        </a>
       </div>
       <div>
         {items.map((item) => (

@@ -27,7 +27,7 @@ function index() {
 
   return (
     <div>
-      <h1 className="uppercase font-bold text-4xl py-4">Практика</h1>
+      <h1 className="items-center uppercase font-bold text-4xl flex flex-row justify-between">Практика</h1>
       {items.map((item) => (
         <Card
           key={item.id}

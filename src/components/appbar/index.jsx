@@ -25,7 +25,7 @@ const navItems = [
   { id: 5, name: "Учебные пособие", path: "/tutorial" },
   { id: 6, name: "Глоссарий", path: "/glossaries" },
   { id: 7, name: "Силлабус", path: "/syllabus" },
-  { id: 8, name: "О нас", path: "/about" },
+  { id: 8, name: "Об авторе", path: "/about" },
 ];
 
 function DrawerAppBar(props) {
@@ -74,16 +74,21 @@ function DrawerAppBar(props) {
           >
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" component="div" sx={{ flexGrow: 1, fontSize: "35px" }}>
+          <Typography
+            variant="h6"
+            component="div"
+            sx={{ flexGrow: 1, fontSize: "35px" }}
+          >
             {nameOfWebApp}
           </Typography>
           <Box sx={{ display: { xs: "none", lg: "block" } }}>
             {navItems.map((item) => (
-              <NavLink
-                key={item.id}
-                to={item.path}
-              >
-                <Button  sx={{ color: "#fff", fontSize: "10px" }}>{item.name}</Button>
+              <NavLink key={item.id} to={item.path}>
+                <Button
+                  sx={{ color: "#fff", fontSize: "10px", fontWeight: "bold" }}
+                >
+                  {item.name}
+                </Button>
               </NavLink>
             ))}
           </Box>

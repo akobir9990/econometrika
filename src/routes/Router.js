@@ -20,9 +20,10 @@ function Router() {
         <Route path="/presentation" element={<Presentation />} />
         <Route path="/lecture" element={<Lecture />} />
         <Route path="/practice" element={<Practice />} />
-        <Route path="/guidlines" element={<Guidlines />} />
+        <Route path="/guidlinies" element={<Guidlines />} />
         <Route path="/glossaries" element={<Glossaries />} />
-        <Route path="*" element={<NotFoundPage />} />
+        <Route path="/about" element={<HomePage />} />
+        <Route path="/*" element={<NotFoundPage />} />
       </Routes>
     </div>
   );

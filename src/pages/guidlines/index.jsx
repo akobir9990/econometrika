@@ -15,7 +15,7 @@ import twelve from "./images/12.svg";
 import thirteen from "./images/13.svg";
 import fourteen from "./images/14.svg";
 import fifteen from "./images/15.svg";
-import sixteen   from "./images/16.svg";
+import sixteen from "./images/16.svg";
 import seventeen from "./images/17.svg";
 import eighteen from "./images/18.svg";
 import nineteen from "./images/19.svg";
@@ -51,69 +51,71 @@ import fortyEight from "./images/48.svg";
 import fortyNine from "./images/49.svg";
 import fifty from "./images/50.svg";
 import fiftyOne from "./images/51.svg";
-
+import Guidlinies from "./Guidlinies.pdf";
 
 import { Button } from "@mui/material";
 
 function index() {
   const items = [
-    { id: 1, url: one},
-    { id: 2, url: two},
-    { id: 3, url: three},
-    { id: 4, url: four},
-    { id: 5, url: five},
-    { id: 6, url: six},
-    { id: 7, url: seven},
-    { id: 8, url: eight},
-    { id: 9, url: nine},
-    { id: 10, url: ten},
-    { id: 11, url: eleven},
-    { id: 12, url: twelve},
-    { id: 13, url: thirteen},
-    { id: 14, url: fourteen},
-    { id: 15, url: fifteen},
-    { id: 16, url: sixteen},
-    { id: 17, url: seventeen},
-    { id: 18, url: eighteen},
-    { id: 19, url: nineteen},
-    { id: 20, url: twenty},
-    { id: 21, url: twentyOne},
-    { id: 22, url: twentyTwo},
-    { id: 23, url: twentyThree},
-    { id: 24, url: twentyFour},
-    { id: 25, url: twentyFive},
-    { id: 26, url: twentySix},
-    { id: 27, url: twentySeven},
-    { id: 28, url: twentyEight},
-    { id: 29, url: twentyNine},
-    { id: 30, url: thirty},
-    { id: 31, url: thirtyOne},
-    { id: 32, url: thirtyTwo},
-    { id: 33, url: thirtyThree},
-    { id: 34, url: thirtyFour},
-    { id: 35, url: thirtyFive},
-    { id: 36, url: thirtySix},
-    { id: 37, url: thirtySeven},
-    { id: 38, url: thirtyEight},
-    { id: 39, url: thirtyNine},
-    { id: 40, url: forty},
-    { id: 41, url: fortyOne},
-    { id: 42, url: fortyTWo},
-    { id: 43, url: fortyThree},
-    { id: 44, url: fortyFour},
-    { id: 45, url: fortyFive},
-    { id: 46, url: fortySix},
-    { id: 47, url: fortySeven},
-    { id: 48, url: fortyEight},
-    { id: 49, url: fortyNine},
-    { id: 50, url: fifty},
-    { id: 51, url: fiftyOne},
+    { id: 1, url: one },
+    { id: 2, url: two },
+    { id: 3, url: three },
+    { id: 4, url: four },
+    { id: 5, url: five },
+    { id: 6, url: six },
+    { id: 7, url: seven },
+    { id: 8, url: eight },
+    { id: 9, url: nine },
+    { id: 10, url: ten },
+    { id: 11, url: eleven },
+    { id: 12, url: twelve },
+    { id: 13, url: thirteen },
+    { id: 14, url: fourteen },
+    { id: 15, url: fifteen },
+    { id: 16, url: sixteen },
+    { id: 17, url: seventeen },
+    { id: 18, url: eighteen },
+    { id: 19, url: nineteen },
+    { id: 20, url: twenty },
+    { id: 21, url: twentyOne },
+    { id: 22, url: twentyTwo },
+    { id: 23, url: twentyThree },
+    { id: 24, url: twentyFour },
+    { id: 25, url: twentyFive },
+    { id: 26, url: twentySix },
+    { id: 27, url: twentySeven },
+    { id: 28, url: twentyEight },
+    { id: 29, url: twentyNine },
+    { id: 30, url: thirty },
+    { id: 31, url: thirtyOne },
+    { id: 32, url: thirtyTwo },
+    { id: 33, url: thirtyThree },
+    { id: 34, url: thirtyFour },
+    { id: 35, url: thirtyFive },
+    { id: 36, url: thirtySix },
+    { id: 37, url: thirtySeven },
+    { id: 38, url: thirtyEight },
+    { id: 39, url: thirtyNine },
+    { id: 40, url: forty },
+    { id: 41, url: fortyOne },
+    { id: 42, url: fortyTWo },
+    { id: 43, url: fortyThree },
+    { id: 44, url: fortyFour },
+    { id: 45, url: fortyFive },
+    { id: 46, url: fortySix },
+    { id: 47, url: fortySeven },
+    { id: 48, url: fortyEight },
+    { id: 49, url: fortyNine },
+    { id: 50, url: fifty },
+    { id: 51, url: fiftyOne },
   ];
   return (
     <div>
-      <div className="flex justify-between ">
+      <div className="items-center uppercase font-bold text-4xl flex flex-row justify-between">
         <h1>Guidlinies</h1>
-        <Button variant="contained">Download</Button>
+        <a href={Guidlinies}>
+          <Button variant="contained">Download</Button>
+        </a>
       </div>
       <div>
         {items.map((item) => (
@@ -123,5 +125,4 @@ function index() {
     </div>
   );
 }
-
-export default index;
+export default index

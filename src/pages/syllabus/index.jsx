@@ -25,7 +25,7 @@ function index() {
   ];
   return (
     <div>
-      <div className="flex justify-between">
+      <div className="items-center uppercase font-bold text-4xl flex flex-row justify-between">
         <h1 className="font-bold text-4xl">Syllabus</h1>
         <Button variant="outlined">Download</Button>
       </div>
