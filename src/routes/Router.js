@@ -7,6 +7,7 @@ import Presentation from "../pages/presentation";
 import Practice from "../pages/practice";
 import Guidline from "../pages/guidlines";
 import Glossaries from "../pages/glossaries";
+import NotFoundPage from "../pages/notFoundPage";
 
 function Router() {
   return (
@@ -19,6 +20,7 @@ function Router() {
         <Route path="/practice" element={<Practice />} />
         <Route path="/guidline" element={<Guidline />} />
         <Route path="/glossaries" element={<Glossaries />} />
+        <Route path="/*" element={<NotFoundPage />} />
       </Routes>
     </div>
   );
