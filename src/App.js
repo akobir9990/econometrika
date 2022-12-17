@@ -1,14 +1,10 @@
-import './App.css';
-import AppBar from './components/appbar';
+import AppBar from "./components/appbar";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <AppBar />
-      </header>
+    <div className="app">
+      <AppBar />
     </div>
   );
 }
-
 export default App;

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="595pt" height="842pt" viewBox="0 0 595 842">
+<g enable-background="new">
+<clipPath id="cp2013">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 0 0 L 595 0 L 595 842 L 0 842 Z "/>
+</clipPath>
+<g clip-path="url(#cp2013)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 0 842 L 595 842 L 595 0 L 0 0 Z " fill="#ffffff"/>
+<g id="Layer-1" data-name="P">
+<g id="Layer-2" data-name="Span">
+</g>
+<clipPath id="cp2014">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 82.3 30.22227 L 555.25 30.22227 L 555.25 61.722269 L 82.3 61.722269 Z "/>
+</clipPath>
+<g clip-path="url(#cp2014)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 313.1998 790.85)" font-size="11" font-family="Calibri"><tspan y="0" x="11.15039"> </tspan></text>
+</g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 313.1998 790.85)" font-size="11" font-family="Calibri"><tspan y="0" x="0 5.5748007">48</tspan></text>
+</g>
+</g>
+</g>
+</svg>

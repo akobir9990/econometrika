@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="595pt" height="842pt" viewBox="0 0 595 842">
+<g enable-background="new">
+<clipPath id="cp86">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 0 0 L 595 0 L 595 842 L 0 842 Z "/>
+</clipPath>
+<g clip-path="url(#cp86)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 0 842 L 595 842 L 595 0 L 0 0 Z " fill="#ffffff"/>
+<g id="Layer-1" data-name="P">
+</g>
+<clipPath id="cp87">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 81.17403 58.97227 L 563.546 58.97227 L 563.546 789.17599 L 81.17403 789.17599 Z "/>
+</clipPath>
+<g clip-path="url(#cp87)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 479.2666 69.07703)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 8.2026 14.4158 21.1904 28.1764 35.6692 43.162004">&#x0422;&#x0430;&#x0431;&#x043b;&#x0438;&#x0446;&#x0430;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 479.2666 69.07703)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="49.375204"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 479.2666 69.07703)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="52.875204">&#x2116;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 479.2666 69.07703)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="66.232608">2</tspan></text>
+<g id="Layer-2" data-name="Span">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 479.2666 69.07703)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="73.2334"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<g id="Layer-2" data-name="Span">
+</g>
+<clipPath id="cp88">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 82.3 30.22227 L 555.25 30.22227 L 555.25 61.722269 L 82.3 61.722269 Z "/>
+</clipPath>
+<g clip-path="url(#cp88)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 315.9874 790.85)" font-size="11" font-family="Calibri"><tspan y="0" x="5.575195"> </tspan></text>
+</g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 315.9874 790.85)" font-size="11" font-family="Calibri"><tspan y="0" x="0">9</tspan></text>
+</g>
+</g>
+</g>
+</svg>

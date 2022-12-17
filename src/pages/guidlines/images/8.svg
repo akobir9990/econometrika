@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="595pt" height="842pt" viewBox="0 0 595 842">
+<g enable-background="new">
+<clipPath id="cp82">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 0 0 L 595 0 L 595 842 L 0 842 Z "/>
+</clipPath>
+<g clip-path="url(#cp82)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 0 842 L 595 842 L 595 0 L 0 0 Z " fill="#ffffff"/>
+<g id="Layer-1" data-name="P">
+</g>
+<clipPath id="cp83">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 81.17403 58.97227 L 563.546 58.97227 L 563.546 789.17599 L 81.17403 789.17599 Z "/>
+</clipPath>
+<g clip-path="url(#cp83)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 222.9962 97.95001)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 9.338001 16.338002 23.338002 26.838002 31.500002 38.5 42 49 53.662 57.162 65.058">Cov (x,y) = </tspan></text>
+<g id="Layer-2" data-name="Span">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 222.9962 97.95001)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="191.5576"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<clipPath id="cp84">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 291.5538 744.05 L 414.5538 744.05 L 414.5538 785.3 L 291.5538 785.3 Z "/>
+</clipPath>
+<g clip-path="url(#cp84)">
+<path transform="matrix(.03805693,0,0,.0379136,291.5538,56.700014)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M 64 544 L 301 544 "/>
+<path transform="matrix(.03805693,0,0,.0379136,291.5538,56.700014)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M 1652 402 L 1819 402 "/>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 322.7605 80.888919)" font-size="507" font-family="Symbol"><tspan y="0" x="0">(</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 361.9591 80.888919)" font-size="507" font-family="Symbol"><tspan y="0" x="0">)</tspan></text>
+<path transform="matrix(.03805693,0,0,.0379136,291.5538,56.700014)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M 2817 402 L 2984 402 "/>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 365.7268 80.888919)" font-size="507" font-family="Symbol"><tspan y="0" x="0">(</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 406.2955 80.888919)" font-size="507" font-family="Symbol"><tspan y="0" x="0">)</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 409.4161 80.96472)" font-size="384" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">.</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 294.8648 71.78961)" font-size="384" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">1</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 314.9969 94.87903)" font-size="224" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">1</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 398.4938 80.96472)" font-size="384" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="0">y</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 371.6637 80.96472)" font-size="384" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="0">y</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 353.9291 80.96472)" font-size="384" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="0">x</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 328.0123 80.96472)" font-size="384" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="0">x</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 294.9789 92.338809)" font-size="384" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="0">n</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 378.6661 84.60437)" font-size="224" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="0">i</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 311.077 66.178409)" font-size="224" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="0">n</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 307.728 94.87903)" font-size="224" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="0">i</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 334.7865 84.60437)" font-size="224" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="0">i</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 386.1633 80.96472)" font-size="384" font-family="Symbol"><tspan y="0" x="0">&#x2212;</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 342.2837 80.96472)" font-size="384" font-family="Symbol"><tspan y="0" x="0">&#x2212;</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 305.4446 84.33899)" font-size="576" font-family="Symbol"><tspan y="0" x="0">&#x2211;</tspan></text>
+<text xml:space="preserve" transform="matrix(.03805693 0 -0 .0379136 310.7726 94.87903)" font-size="224" font-family="Symbol"><tspan y="0" x="0">&#x2212;</tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<g id="Layer-2" data-name="Span">
+</g>
+<clipPath id="cp85">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 82.3 30.22227 L 555.25 30.22227 L 555.25 61.722269 L 82.3 61.722269 Z "/>
+</clipPath>
+<g clip-path="url(#cp85)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 315.9874 790.85)" font-size="11" font-family="Calibri"><tspan y="0" x="5.575195"> </tspan></text>
+</g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 315.9874 790.85)" font-size="11" font-family="Calibri"><tspan y="0" x="0">8</tspan></text>
+</g>
+</g>
+</g>
+</svg>

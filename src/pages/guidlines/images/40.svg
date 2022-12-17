@@ -1,0 +1,1712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="595pt" height="842pt" viewBox="0 0 595 842">
+<g enable-background="new">
+<clipPath id="cp1514">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 0 0 L 595 0 L 595 842 L 0 842 Z "/>
+</clipPath>
+<g clip-path="url(#cp1514)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 0 842 L 595 842 L 595 0 L 0 0 Z " fill="#ffffff"/>
+</g>
+<clipPath id="cp1515">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 79.91262 58.97227 L 557.6374 58.97227 L 557.6374 786.3 L 79.91262 786.3 Z "/>
+</clipPath>
+<g clip-path="url(#cp1515)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 99.05 678 L 552.5 678 L 552.5 654.2974 L 99.05 654.2974 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.05 654.2974 L 552.5 654.2974 L 552.5 630.5947 L 85.05 630.5947 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.05 630.5947 L 235.9533 630.5947 L 235.9533 606.8921 L 85.05 606.8921 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 120.45 606.8921 L 552.5 606.8921 L 552.5 583.1895 L 120.45 583.1895 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.05 583.1895 L 335.5529 583.1895 L 335.5529 559.4868 L 85.05 559.4868 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 120.45 559.4868 L 552.5 559.4868 L 552.5 535.7842 L 120.45 535.7842 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.05 535.7842 L 552.5 535.7842 L 552.5 512.0815 L 85.05 512.0815 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.05 512.0815 L 502.1311 512.0815 L 502.1311 488.3789 L 85.05 488.3789 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 120.45 488.3789 L 552.5 488.3789 L 552.5 464.6763 L 120.45 464.6763 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.05 464.6763 L 552.5 464.6763 L 552.5 440.9736 L 85.05 440.9736 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.05 440.9736 L 448.1818 440.9736 L 448.1818 405.3007 L 85.05 405.3007 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 100.05 405.3007 L 543.4836 405.3007 L 543.4836 381.5981 L 100.05 381.5981 Z " fill="#ffffff"/>
+<g id="Layer-1" data-name="P">
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7.786801 14.000002 19.933203 26.973803 33.187005">&#x0420;&#x0430;&#x0441;&#x0447;&#x0435;&#x0442;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="39.305006"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="43.356607 49.742006 56.127405 61.576204 68.5762 76.069 83.5618 90.5618">&#x0441;&#x0435;&#x0437;&#x043e;&#x043d;&#x043d;&#x043e;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="98.054599"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="102.10619 108.19759 114.931598 123.790798 131.2836 138.2836 145.77642 151.98961 159.48242 165.60042">&#x043a;&#x043e;&#x043c;&#x043f;&#x043e;&#x043d;&#x0435;&#x043d;&#x0442;&#x044b;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="175.00702"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="179.05863 185.66944 195.07604 202.56885 209.38405 216.37006 223.86287 231.35569">&#x0432;&#x044b;&#x043f;&#x043e;&#x043b;&#x043d;&#x0438;&#x043c;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="240.21488"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="244.26648">&#x0432;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="250.87729"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="254.9289 261.1421 268.12809 274.1579 281.2811 288.2811 298.7405 309.5205 315.7337">&#x0441;&#x043b;&#x0435;&#x0434;&#x0443;&#x044e;&#x0449;&#x0435;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="323.2265"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="327.2781 334.2781 340.4913 346.4245 353.4651 359.67829 365.7963 373.2891 380.2891">&#x0440;&#x0430;&#x0441;&#x0447;&#x0435;&#x0442;&#x043d;&#x043e;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="387.7819"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="391.8335 398.1223 404.3355 411.1101 418.0961 425.5889 433.0817">&#x0442;&#x0430;&#x0431;&#x043b;&#x0438;&#x0446;&#x0435;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="439.2949 442.7949">, </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="446.8465">&#x0432;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 99.05 176.37702)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="453.4573"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.0914 12.9066 18.839802 25.839802 32.8398 39.8398">&#x043a;&#x043e;&#x0442;&#x043e;&#x0440;&#x043e;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="47.332605"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="56.273004 63.273004 70.7658 76.979007 84.4718 91.273">&#x043e;&#x0446;&#x0435;&#x043d;&#x043a;&#x0438;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="98.7658"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="107.7062 114.091609 120.47701 125.92581 132.92581 140.41863 147.91144 154.91144">&#x0441;&#x0435;&#x0437;&#x043e;&#x043d;&#x043d;&#x043e;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="162.40425"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="171.34465 177.77065 183.98384 190.98384 198.47666 204.68985 212.18267 219.67548">&#x0432;&#x0430;&#x0440;&#x0438;&#x0430;&#x0446;&#x0438;&#x0438;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="227.16829"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="236.10869 241.63869 247.66849 255.1613 262.6541 268.8673 278.2739 284.6999 290.9131 301.18769 307.4765 313.6897">&#x0437;&#x0430;&#x043f;&#x0438;&#x0441;&#x044b;&#x0432;&#x0430;&#x044e;&#x0442;&#x0441;&#x044f;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="320.1297"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="329.0701 336.5629 343.1597">&#x043f;&#x043e;&#x0434;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="350.2829"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="359.2233 365.4365 372.4365 379.25169 385.3697 391.8979 398.11109 404.3999 410.6131 416.7311 422.8631 429.8631 440.3225 451.1025 458.5953">&#x0441;&#x043e;&#x043e;&#x0442;&#x0432;&#x0435;&#x0442;&#x0441;&#x0442;&#x0432;&#x0443;&#x044e;&#x0449;&#x0438;&#x043c;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 200.07959)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="467.4545"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 223.78223)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7.4928 14.2268 23.086 29.299202 36.299203 43.033205">&#x043d;&#x043e;&#x043c;&#x0435;&#x0440;&#x043e;&#x043c;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 223.78223)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="51.892404"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 223.78223)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="55.392404 62.193605 68.619609 74.83281 81.64801 87.936809 94.27321 101.25921">&#x043a;&#x0432;&#x0430;&#x0440;&#x0442;&#x0430;&#x043b;&#x0430;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 223.78223)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="107.47241"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 223.78223)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="110.97241">&#x0432;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 223.78223)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="117.58321"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 223.78223)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="121.08321 126.47741 133.07422 140.19742">&#x0433;&#x043e;&#x0434;&#x0443;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 223.78223)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="147.01262">:</tspan></text>
+<g id="Layer-2" data-name="Span">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 223.78223)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="150.9033"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">&#x0412;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="9.338001"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="14.253401 20.466603 26.755402 33.7554 40.7554 47.208005">&#x0441;&#x0442;&#x0440;&#x043e;&#x043a;&#x0435;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="53.421205"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="0" x="58.33902 68.44982 76.23662 82.25942 89.34622 97.413028 103.63183">&#x0421;&#x0440;&#x0435;&#x0434;&#x043d;&#x0435;&#x0435;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="0" x="109.85063"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="114.7566 121.7566 127.9698 134.183 140.1162 147.1568 154.64962 160.93842 167.15161 174.64443">&#x0440;&#x0430;&#x0441;&#x0441;&#x0447;&#x0438;&#x0442;&#x0430;&#x043d;&#x044b;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="184.05103"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="188.96643 195.17963 202.17963 208.20943 215.33263 222.82544 230.31826">&#x0441;&#x0440;&#x0435;&#x0434;&#x043d;&#x0438;&#x0435;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="236.53145"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="241.44686 247.83226 254.21767 259.66648 266.66648 274.15928 281.65208 288.65208">&#x0441;&#x0435;&#x0437;&#x043e;&#x043d;&#x043d;&#x043e;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="296.14488"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="301.06028 307.48628 313.69947 320.69947 328.19227 334.40547 341.89826 349.39106">&#x0432;&#x0430;&#x0440;&#x0438;&#x0430;&#x0446;&#x0438;&#x0438;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="356.88386"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="361.79927 369.29206">&#x043f;&#x043e;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="376.29206"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="381.20747 386.60166 393.19847 400.32167 406.53486">&#x0433;&#x043e;&#x0434;&#x0430;&#x043c;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="415.39405"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="420.30946 425.83946">&#x0437;&#x0430;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 247.48493)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="432.05265"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.5898005 12.803001 22.475602 29.5988 39.0054">&#x043a;&#x0430;&#x0436;&#x0434;&#x044b;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="46.498205"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="49.998205 56.799406 63.225408 69.43861 76.25381 82.54261 88.87901">&#x043a;&#x0432;&#x0430;&#x0440;&#x0442;&#x0430;&#x043b;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="95.86501"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="99.36501">&#x0438;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="106.85781"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="110.35781 117.85061">&#x0438;&#x0445;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="124.85061"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="128.35062 134.38042 141.19562 150.05481 158.8188">&#x0441;&#x0443;&#x043c;&#x043c;&#x0430;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="165.032 168.532">, </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="172.032 179.032 185.2452 191.856 199.34882 205.56201">&#x0440;&#x0430;&#x0432;&#x043d;&#x0430;&#x044f;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="212.00202 215.50202 222.50202 226.00202 233.00202 240.00202 247.00202"> 3,918.</tspan></text>
+<g id="Layer-2" data-name="Span">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 271.1875)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="250.5029"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">&#x0412;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="9.338001"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="13.074601 21.933802 28.319203 35.305204 41.1572 47.2752 54.768 62.260805 69.2468 76.7396 83.3294 89.181407 95.29941 102.792209 109.40301 116.895809 123.895809">&#x043c;&#x0443;&#x043b;&#x044c;&#x0442;&#x0438;&#x043f;&#x043b;&#x0438;&#x043a;&#x0430;&#x0442;&#x0438;&#x0432;&#x043d;&#x043e;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="131.38861"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="135.12522 143.9844 150.5812 157.7044 163.9176 170.9036">&#x043c;&#x043e;&#x0434;&#x0435;&#x043b;&#x0438;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="178.39641"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="182.13301 189.62583 196.62583 202.65563 209.77883 217.27164 224.08684 231.07285 237.28604 243.02886 249.24205 255.45525 261.74406 267.95726">&#x043f;&#x0440;&#x0435;&#x0434;&#x043f;&#x043e;&#x043b;&#x0430;&#x0433;&#x0430;&#x0435;&#x0442;&#x0441;&#x044f;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="274.39726 277.89726">, </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="281.63386 288.67445 294.60765">&#x0447;&#x0442;&#x043e;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="301.60765"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="305.34425 311.37406 318.18925 327.04844 335.81245">&#x0441;&#x0443;&#x043c;&#x043c;&#x0430;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="342.02565"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="345.76225 352.29045 358.67585 364.70567">&#x0432;&#x0441;&#x0435;&#x0445;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="371.70567"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="375.44227 381.82768 388.21308 393.66188 400.66188 408.15467 415.64747 425.05406">&#x0441;&#x0435;&#x0437;&#x043e;&#x043d;&#x043d;&#x044b;&#x0445;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 294.89009)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="432.05406"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.0914 12.8254 21.6846 29.1774 36.1774 43.6702 49.8834 57.3762">&#x043a;&#x043e;&#x043c;&#x043f;&#x043e;&#x043d;&#x0435;&#x043d;&#x0442;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="63.4942"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="71.386 78.8788">&#x043f;&#x043e;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="85.8788"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="93.7706 100.2988 106.684207 112.89741">&#x0432;&#x0441;&#x0435;&#x043c;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="121.75661"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="129.6484 136.4496 142.8756 149.08879 155.90399 162.1928 168.5292 175.5152 181.7284">&#x043a;&#x0432;&#x0430;&#x0440;&#x0442;&#x0430;&#x043b;&#x0430;&#x043c;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="190.58759"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="198.47939 205.60259 212.41779 219.40378 229.07637 236.56919">&#x0434;&#x043e;&#x043b;&#x0436;&#x043d;&#x0430;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="242.78238"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="250.67418 257.79737 267.20396 273.32197">&#x0431;&#x044b;&#x0442;&#x044c;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="279.70738"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="287.59919 294.59919 300.81239 307.4232 314.916">&#x0440;&#x0430;&#x0432;&#x043d;&#x0430;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="321.12919"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="329.0217 339.3565 348.8653 358.2761 370.9769 381.26969 390.77848">&#x0447;&#x0435;&#x0442;&#x044b;&#x0440;&#x0435;&#x043c;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="402.9331 410.82493 424.82493"> &#x2014; </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="432.71675 439.75733 447.25013 453.46333 460.4493">&#x0447;&#x0438;&#x0441;&#x043b;&#x0443;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 318.59278)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="467.4493"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.385401 12.770802 18.219603 25.219603 32.712404 39.712404">&#x0441;&#x0435;&#x0437;&#x043e;&#x043d;&#x043e;&#x0432;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="46.323205"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="49.823205">&#x0432;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="56.434007"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="59.934007 65.3282 71.925 79.0482">&#x0433;&#x043e;&#x0434;&#x0443;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="86.0482"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="89.54395">(</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="94.205959 100.41916 106.63236 112.90716 119.90716 125.98456 132.98456">&#x0443;&#x0441;&#x043b;&#x043e;&#x0432;&#x0438;&#x0435;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="139.19776"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="142.69776 148.59037 154.05178 161.05178 168.05178 176.98659 183.98659 190.98659 197.98659 203.448 210.448 221.0166 228.0166 233.88121 242.81603 249.81603 256.0292 266.14">&#x0432;&#x0437;&#x0430;&#x0438;&#x043c;&#x043e;&#x043f;&#x043e;&#x0433;&#x0430;&#x0448;&#x0430;&#x0435;&#x043c;&#x043e;&#x0441;&#x0442;&#x0438;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="273.14"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="276.64 282.66984 288.69966 293.97764 300.97764 307.92304 314.86845 324.34925">&#x0441;&#x0435;&#x0437;&#x043e;&#x043d;&#x043d;&#x044b;&#x0445;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="330.56245"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="334.06245 339.95503 346.7702 352.0482 359.3016 365.5148 372.5148 378.728 388.8388 394.9162 401.9162">&#x0432;&#x043e;&#x0437;&#x0434;&#x0435;&#x0439;&#x0441;&#x0442;&#x0432;&#x0438;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="408.9162 413.5782">).</tspan></text>
+<g id="Layer-2" data-name="Span">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 342.2954)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="417.0811"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">&#x0412;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="9.338001"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="19.875802 26.1646 32.5276 39.6018 46.676 53.2028">&#x0441;&#x0442;&#x0440;&#x043e;&#x043a;&#x0435;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="59.416"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="0" x="69.95405 80.13905 88.09805 95.17506 103.03606 110.89706 117.190059 125.331058 132.28206 140.42307 148.28408 155.01107 162.64806 169.72505 177.86606 186.00707 193.08406">&#x0421;&#x043a;&#x043e;&#x0440;&#x0440;&#x0435;&#x043a;&#x0442;&#x0438;&#x0440;&#x043e;&#x0432;&#x0430;&#x043d;&#x043d;&#x043e;&#x0435;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="0" x="199.29306"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="209.814">S</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="9.333334" font-family="TimesNewRomanPS" font-style="italic"><tspan y="1.00944" x="216.876">i</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="219.4691"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="230.0069 237.0811 243.3699 249.6587 255.6661 262.7809 270.3479 276.7109 282.99974 290.5667">&#x0440;&#x0430;&#x0441;&#x0441;&#x0447;&#x0438;&#x0442;&#x0430;&#x043d;&#x044b;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="299.9733"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="310.5111 316.1153 323.68229 329.4097 336.5245 342.81333 350.3803 357.9473">&#x0437;&#x043d;&#x0430;&#x0447;&#x0435;&#x043d;&#x0438;&#x044f;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="364.3873"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="374.9251 381.3847 387.8443 393.3673 400.4415 408.00849 415.57548 425.05628">&#x0441;&#x0435;&#x0437;&#x043e;&#x043d;&#x043d;&#x044b;&#x0445;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 120.45 365.998)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="432.05628"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.0914 12.8254 21.6846 29.1774 36.1774 43.6702 49.8834 57.3762">&#x043a;&#x043e;&#x043c;&#x043f;&#x043e;&#x043d;&#x0435;&#x043d;&#x0442;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="63.4942"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="67.70403">S</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="9.333334" font-family="TimesNewRomanPS" font-style="italic"><tspan y="1.00944" x="74.70403">i</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="77.29713"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="81.50896 88.098758 94.31196">&#x043a;&#x0430;&#x043a;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="101.11316"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="105.324359 112.817157 119.817157 126.817157 134.30997 139.83997 146.36817 152.39797 159.52117 165.73436 173.22718 180.71999">&#x043f;&#x0440;&#x043e;&#x0438;&#x0437;&#x0432;&#x0435;&#x0434;&#x0435;&#x043d;&#x0438;&#x0435;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="186.93318"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="191.14438 197.35758 204.35758 211.17278 217.29077 223.81897 230.03217 236.32097 242.53417 248.65216 254.78417 261.78419 272.2436 283.0236 289.2368">&#x0441;&#x043e;&#x043e;&#x0442;&#x0432;&#x0435;&#x0442;&#x0441;&#x0442;&#x0432;&#x0443;&#x044e;&#x0449;&#x0435;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="296.72959"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="300.9408 307.154 314.154 320.1838 327.307 334.7998 341.013">&#x0441;&#x0440;&#x0435;&#x0434;&#x043d;&#x0435;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="348.5058"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="352.717 359.10243 365.48783 370.9366 377.9366 385.4294 392.9222 399.9222">&#x0441;&#x0435;&#x0437;&#x043e;&#x043d;&#x043d;&#x043e;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="407.415"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="411.62623 418.05223 424.2654 431.2654 438.7582 444.9714 452.4642 459.957">&#x0432;&#x0430;&#x0440;&#x0438;&#x0430;&#x0446;&#x0438;&#x0438;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 389.7007)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="467.4498"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 417.7559)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7.4928">&#x043d;&#x0430;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 417.7559)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="13.706001"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 417.7559)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="17.206002 23.297402 30.297402 37.2974 44.2974 50.5106 57.128404 63.246404 70.739208 77.554409 84.554409 95.01381 105.79381 113.286609">&#x043a;&#x043e;&#x0440;&#x0440;&#x0435;&#x043a;&#x0442;&#x0438;&#x0440;&#x0443;&#x044e;&#x0449;&#x0438;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 417.7559)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="120.7794"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 417.7559)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="124.2794 130.3708 137.54161 143.4678 152.45722 161.52782 169.02063 176.51345 184.00626 190.21945 197.71227">&#x043a;&#x043e;&#x044d;&#x0444;&#x0444;&#x0438;&#x0446;&#x0438;&#x0435;&#x043d;&#x0442;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 417.7559)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="203.83026 207.33026 214.33026 218.21945 225.21945 228.71945 235.71945 242.71945 249.71945 253.21945 261.11546 264.61546 271.61546 275.11546 282.11546 289.11546 296.11546 299.61546"> 4/3,918 = 1,021, </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 417.7559)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="303.11546 310.60826 317.60826">&#x043f;&#x0440;&#x0438;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 417.7559)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="325.10105"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 417.7559)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="328.60105 334.60987 340.54307 347.27708">&#x044d;&#x0442;&#x043e;&#x043c;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 417.7559)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="356.13627 359.63627">  </tspan></text>
+<g id="Layer-2" data-name="Span">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 85.05 417.7559)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="441.0733"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7.786801 14.000002 19.933203 26.973803 33.187005">&#x0420;&#x0430;&#x0441;&#x0447;&#x0435;&#x0442;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="39.305006"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="42.805006 49.093805 56.093805 62.307004 69.799808 76.923007 83.923007 90.4372 97.4372">&#x0442;&#x0440;&#x0435;&#x043d;&#x0434;&#x043e;&#x0432;&#x043e;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="104.93"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="108.43 114.5214 121.2554 130.1146 137.6074 144.6074 152.10022 158.31342 165.80623 171.92423">&#x043a;&#x043e;&#x043c;&#x043f;&#x043e;&#x043d;&#x0435;&#x043d;&#x0442;&#x044b;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="181.33083"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="184.83083">&#x0438;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="192.32364"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="195.82364 202.82364 213.60364 221.09645 228.21965 235.21965">&#x043e;&#x0448;&#x0438;&#x0431;&#x043e;&#x043a;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="242.02085"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="245.52085 252.13166 261.53825 269.03105 275.84623 282.8322 290.325 297.8178">&#x0432;&#x044b;&#x043f;&#x043e;&#x043b;&#x043d;&#x0438;&#x043c;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="306.677"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="310.177">&#x0432;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="316.7878"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="320.2878 326.501 333.487 339.5168 346.64 353.64 364.09944 374.87944 381.09263">&#x0441;&#x043b;&#x0435;&#x0434;&#x0443;&#x044e;&#x0449;&#x0435;&#x0439;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="388.58543"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="392.08543 398.37425 404.58744 411.36204 418.34803 425.84083 433.33363">&#x0442;&#x0430;&#x0431;&#x043b;&#x0438;&#x0446;&#x0435;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="439.5468">:</tspan></text>
+<g id="Layer-2" data-name="Span">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 100.05 449.0762)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="443.4336"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<clipPath id="cp1516">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159 677.05 L 478 677.05 L 478 787.05 L 159 787.05 Z "/>
+</clipPath>
+<g clip-path="url(#cp1516)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 161 785.05 L 217.7 785.05 L 217.7 739.85 L 161 739.85 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 217.7 785.05 L 267.35 785.05 L 267.35 763.25 L 217.7 763.25 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 267.35 785.05 L 312.2 785.05 L 312.2 763.25 L 267.35 763.25 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 354.2 785.05 L 396.9 785.05 L 396.9 763.25 L 354.2 763.25 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 396.9 785.05 L 438.65 785.05 L 438.65 763.25 L 396.9 763.25 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 438.65 785.05 L 476.55 785.05 L 476.55 739.85 L 438.65 739.85 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 217.7 763.25 L 267.35 763.25 L 267.35 739.85 L 217.7 739.85 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 267.35 763.25 L 312.2 763.25 L 312.2 739.85 L 267.35 739.85 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 312.2 763.25 L 354.2 763.25 L 354.2 739.85 L 312.2 739.85 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 354.2 763.25 L 396.9 763.25 L 396.9 739.85 L 354.2 739.85 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 396.9 763.25 L 438.65 763.25 L 438.65 739.85 L 396.9 739.85 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 161 739.85 L 267.35 739.85 L 267.35 721.95 L 161 721.95 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 312.2 739.85 L 354.2 739.85 L 354.2 721.95 L 312.2 721.95 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 354.2 739.85 L 396.9 739.85 L 396.9 721.95 L 354.2 721.95 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 396.9 739.85 L 438.65 739.85 L 438.65 721.95 L 396.9 721.95 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 161 721.95 L 267.35 721.95 L 267.35 701.75 L 161 701.75 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 267.35 721.95 L 312.2 721.95 L 312.2 701.75 L 267.35 701.75 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 354.2 721.95 L 396.9 721.95 L 396.9 701.75 L 354.2 701.75 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 396.9 721.95 L 438.65 721.95 L 438.65 701.75 L 396.9 701.75 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 438.65 721.95 L 476.55 721.95 L 476.55 701.75 L 438.65 701.75 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 161 701.75 L 267.35 701.75 L 267.35 679.25 L 161 679.25 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 267.35 701.75 L 312.2 701.75 L 312.2 679.25 L 267.35 679.25 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 354.2 701.75 L 396.9 701.75 L 396.9 679.25 L 354.2 679.25 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,842)" d="M 438.65 701.75 L 476.55 701.75 L 476.55 679.25 L 438.65 679.25 Z " fill="#ffffff"/>
+<g id="Layer-2" data-name="P">
+<g id="Layer-3" data-name="P">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 161 785.05 L 217.7 785.05 L 217.7 739.85 L 161 739.85 Z " fill="#e0bfa0" fill-opacity="0"/>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1517">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 217.95 763.5 L 267.1 763.5 L 267.1 784.8 L 217.95 784.8 Z "/>
+</clipPath>
+<g clip-path="url(#cp1517)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 239.525 780.8 L 245.525 780.8 L 245.525 758.5549 L 239.525 758.5549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 239.525 73.09448)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">3</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1518">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 267.6 763.5 L 311.95 763.5 L 311.95 784.8 L 267.6 784.8 Z "/>
+</clipPath>
+<g clip-path="url(#cp1518)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 276.275 780.8 L 303.275 780.8 L 303.275 758.5549 L 276.275 758.5549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 276.275 73.09448)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">0,842</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1519">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 312.45 763.5 L 353.95 763.5 L 353.95 784.8 L 312.45 784.8 Z "/>
+</clipPath>
+<g clip-path="url(#cp1519)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 319.7 780.8 L 346.7 780.8 L 346.7 758.5549 L 319.7 758.5549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 319.7 73.09448)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">1,356</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1520">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 354.45 763.5 L 396.65003 763.5 L 396.65003 784.8 L 354.45 784.8 Z "/>
+</clipPath>
+<g clip-path="url(#cp1520)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 362.05 780.8 L 389.05 780.8 L 389.05 758.5549 L 362.05 758.5549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 362.05 73.09448)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">1,049</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1521">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 397.15 763.5 L 438.4 763.5 L 438.4 784.8 L 397.15 784.8 Z "/>
+</clipPath>
+<g clip-path="url(#cp1521)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 404.275 780.8 L 431.275 780.8 L 431.275 758.5549 L 404.275 758.5549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 404.275 73.09448)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">0,762</tspan></text>
+</g>
+</g>
+</g>
+<clipPath id="cp1522">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159 677.05 L 478 677.05 L 478 787.05 L 159 787.05 Z "/>
+</clipPath>
+<g clip-path="url(#cp1522)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 438.65 785.05 L 476.55 785.05 L 476.55 739.85 L 438.65 739.85 Z " fill="#09bfd4" fill-opacity="0"/>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1523">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 217.95 740.1 L 267.1 740.1 L 267.1 763 L 217.95 763 Z "/>
+</clipPath>
+<g clip-path="url(#cp1523)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 239.525 759 L 245.525 759 L 245.525 736.7549 L 239.525 736.7549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 239.525 94.89447)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">4</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1524">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 267.6 740.1 L 311.95 740.1 L 311.95 763 L 267.6 763 Z "/>
+</clipPath>
+<g clip-path="url(#cp1524)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 276.4977 759 L 303.0523 759 L 303.0523 736.7549 L 276.4977 736.7549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 276.4977 94.89447)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 20.5548">0,811</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1525">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 312.45 740.1 L 353.95 740.1 L 353.95 763 L 312.45 763 Z "/>
+</clipPath>
+<g clip-path="url(#cp1525)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 319.7 759 L 346.7 759 L 346.7 736.7549 L 319.7 736.7549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 319.7 94.89447)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">1,173</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1526">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 354.45 740.1 L 396.65003 740.1 L 396.65003 763 L 354.45 763 Z "/>
+</clipPath>
+<g clip-path="url(#cp1526)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 373.552 759 L 377.548 759 L 377.548 736.7549 L 373.552 736.7549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 373.552 94.89447)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">-</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1527">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 397.15 740.1 L 438.4 740.1 L 438.4 763 L 397.15 763 Z "/>
+</clipPath>
+<g clip-path="url(#cp1527)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 415.777 759 L 419.773 759 L 419.773 736.7549 L 415.777 736.7549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 415.777 94.89447)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">-</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1528">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 161.25 722.2 L 267.1 722.2 L 267.1 739.60006 L 161.25 739.60006 Z "/>
+</clipPath>
+<g clip-path="url(#cp1528)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 165.25 735.6 L 195.625 735.6 L 195.625 713.3549 L 165.25 713.3549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 165.25 118.294498)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 8.666401 13.752001 19.752 24.3756">&#x0418;&#x0442;&#x043e;&#x0433;&#x043e;</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1529">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 267.6 722.2 L 311.95 722.2 L 311.95 739.60006 L 267.6 739.60006 Z "/>
+</clipPath>
+<g clip-path="url(#cp1529)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 276.275 735.6 L 303.275 735.6 L 303.275 713.3549 L 276.275 713.3549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 276.275 118.294498)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">2,562</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1530">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 312.45 722.2 L 353.95 722.2 L 353.95 739.60006 L 312.45 739.60006 Z "/>
+</clipPath>
+<g clip-path="url(#cp1530)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 319.7 735.6 L 346.7 735.6 L 346.7 713.3549 L 319.7 713.3549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 319.7 118.294498)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">3,862</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1531">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 354.45 722.2 L 396.65003 722.2 L 396.65003 739.60006 L 354.45 739.60006 Z "/>
+</clipPath>
+<g clip-path="url(#cp1531)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 362.05 735.6 L 389.05 735.6 L 389.05 713.3549 L 362.05 713.3549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 362.05 118.294498)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">3,228</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1532">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 397.15 722.2 L 438.4 722.2 L 438.4 739.60006 L 397.15 739.60006 Z "/>
+</clipPath>
+<g clip-path="url(#cp1532)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 404.275 735.6 L 431.275 735.6 L 431.275 713.3549 L 404.275 713.3549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 404.275 118.294498)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">2,103</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1533">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 438.9 722.2 L 476.3 722.2 L 476.3 739.60006 L 438.9 739.60006 Z "/>
+</clipPath>
+<g clip-path="url(#cp1533)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 443.2738 735.6 L 471.9262 735.6 L 471.9262 713.3549 L 443.2738 713.3549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 443.2738 118.294498)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7.7052 13.550401 21.1476">&#x0421;&#x0443;&#x043c;&#x043c;</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1534">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 161.25 702 L 267.1 702 L 267.1 721.7 L 161.25 721.7 Z "/>
+</clipPath>
+<g clip-path="url(#cp1534)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 165.25 717.7 L 207.6016 717.7 L 207.6016 695.4549 L 165.25 695.4549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 165.25 136.19452)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 8.004001 14.004001 19.172402 25.278002 31.700402 37.026">&#x0421;&#x0440;&#x0435;&#x0434;&#x043d;&#x0435;&#x0435;</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1535">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 267.6 702 L 311.95 702 L 311.95 721.7 L 267.6 721.7 Z "/>
+</clipPath>
+<g clip-path="url(#cp1535)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 276.275 717.7 L 303.275 717.7 L 303.275 695.4549 L 276.275 695.4549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 276.275 136.19452)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">0,854</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1536">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 312.45 702 L 353.95 702 L 353.95 721.7 L 312.45 721.7 Z "/>
+</clipPath>
+<g clip-path="url(#cp1536)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 319.7 717.7 L 346.7 717.7 L 346.7 695.4549 L 319.7 695.4549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 319.7 136.19452)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">1,287</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1537">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 354.45 702 L 396.65003 702 L 396.65003 721.7 L 354.45 721.7 Z "/>
+</clipPath>
+<g clip-path="url(#cp1537)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 362.05 717.7 L 389.05 717.7 L 389.05 695.4549 L 362.05 695.4549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 362.05 136.19452)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">1,076</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1538">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 397.15 702 L 438.4 702 L 438.4 721.7 L 397.15 721.7 Z "/>
+</clipPath>
+<g clip-path="url(#cp1538)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 404.275 717.7 L 431.275 717.7 L 431.275 695.4549 L 404.275 695.4549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 404.275 136.19452)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">0,701</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1539">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 438.9 702 L 476.3 702 L 476.3 721.7 L 438.9 721.7 Z "/>
+</clipPath>
+<g clip-path="url(#cp1539)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 444.1 717.7 L 471.1 717.7 L 471.1 695.4549 L 444.1 695.4549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 444.1 136.19452)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">3,918</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1540">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 161.25 679.5 L 267.1 679.5 L 267.1 701.5 L 161.25 701.5 Z "/>
+</clipPath>
+<g clip-path="url(#cp1540)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 165.25 697.5 L 260.9629 697.5 L 260.9629 675.2549 L 165.25 675.2549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 165.25 156.39447)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 8.004001 13.225201 19.2252 25.2252 31.2252 36.5508 42.2232 47.4672 53.8896 59.8896 65.8896 71.397609 76.723209 83.14561 89.56801">&#x0421;&#x043a;&#x043e;&#x0440;&#x0440;&#x0435;&#x043a;&#x0442;&#x0438;&#x0440;&#x043e;&#x0432;&#x0430;&#x043d;&#x043d;&#x043e;</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1541">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 267.6 679.5 L 311.95 679.5 L 311.95 701.5 L 267.6 701.5 Z "/>
+</clipPath>
+<g clip-path="url(#cp1541)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 276.275 697.5 L 303.275 697.5 L 303.275 675.2549 L 276.275 675.2549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 276.275 156.39447)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">0,872</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1542">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 312.45 679.5 L 353.95 679.5 L 353.95 701.5 L 312.45 701.5 Z "/>
+</clipPath>
+<g clip-path="url(#cp1542)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 319.7 697.5 L 346.7 697.5 L 346.7 675.2549 L 319.7 675.2549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 319.7 156.39447)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">1,314</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1543">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 354.45 679.5 L 396.65003 679.5 L 396.65003 701.5 L 354.45 701.5 Z "/>
+</clipPath>
+<g clip-path="url(#cp1543)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 362.05 697.5 L 389.05 697.5 L 389.05 675.2549 L 362.05 675.2549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 362.05 156.39447)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">1,099</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1544">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 397.15 679.5 L 438.4 679.5 L 438.4 701.5 L 397.15 701.5 Z "/>
+</clipPath>
+<g clip-path="url(#cp1544)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 404.275 697.5 L 431.275 697.5 L 431.275 675.2549 L 404.275 675.2549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 404.275 156.39447)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 9 15 21">0,715</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1545">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 438.9 679.5 L 476.3 679.5 L 476.3 701.5 L 438.9 701.5 Z "/>
+</clipPath>
+<g clip-path="url(#cp1545)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 454.6 697.5 L 460.6 697.5 L 460.6 675.2549 L 454.6 675.2549 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 454.6 156.39447)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">4</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<clipPath id="cp1546">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159 677.05 L 478 677.05 L 478 787.05 L 159 787.05 Z "/>
+</clipPath>
+<g clip-path="url(#cp1546)">
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 58.7 1.5 L 58.7 47.7 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 108.35 1.5 L 108.35 108.3 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 153.2 1.5 L 153.2 108.3 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 195.2 1.5 L 195.2 108.3 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 237.9 1.5 L 237.9 108.3 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 279.65 1.5 L 279.65 108.3 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 58.2 2 L 280.15 2 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 58.2 23.8 L 280.15 23.8 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 47.2 L 318.05 47.2 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 65.1 L 318.05 65.1 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 85.3 L 318.05 85.3 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 2 2 L 2 108.3 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 317.55 2 L 317.55 108.3 "/>
+<path transform="matrix(1,0,0,1,159,54.950014)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 107.8 L 318.05 107.8 "/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<clipPath id="cp1547">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 451.622 416.1702 L 526.1233 416.1702 L 526.1233 440.97364 L 451.622 440.97364 Z "/>
+</clipPath>
+<g clip-path="url(#cp1547)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 448.1818 452.3096)" font-size="17.10582" font-family="STIXSizeOneSym"><tspan y="-25.64162" x="1.900646">&#x2211;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 448.1818 434.4853)" font-size="17.10582" font-family="STIXGeneral" font-style="italic"><tspan y="-16.72949" x="26.85233">S</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 448.1818 443.0383)" font-size="12.14513" font-family="STIXGeneral" font-style="italic"><tspan y="-21.00594" x="34.80422">i</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 448.1818 434.4853)" font-size="17.10582" font-family="STIXGeneral"><tspan y="-16.72949" x="42.94107">=</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 448.1818 434.4853)" font-size="17.10582" font-family="STIXGeneral"><tspan y="-16.72949" x="59.41017">4</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 448.1818 434.4853)" font-size="17.10582" font-family="STIXGeneral"><tspan y="-16.72949" x="70.81405">.</tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<g id="Layer-2" data-name="P">
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1548">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 354.9923 L 131.8377 354.9923 L 131.8377 380.09815 L 85.55 380.09815 Z "/>
+</clipPath>
+<g clip-path="url(#cp1548)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 376.0981 L 93.43965 376.0981 L 93.43965 352.3954 L 89.55 352.3954 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 478.2789)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">t</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1549">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 354.9923 L 200.9703 354.9923 L 200.9703 380.09815 L 132.3377 380.09815 Z "/>
+</clipPath>
+<g clip-path="url(#cp1549)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 136.3377 376.0981 L 146.4481 376.0981 L 146.4481 352.3954 L 136.3377 352.3954 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 136.3377 478.2789)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">Y</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1550">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 354.9923 L 285.1296 354.9923 L 285.1296 380.09815 L 201.4703 380.09815 Z "/>
+</clipPath>
+<g clip-path="url(#cp1550)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 376.0981 L 213.2564 376.0981 L 213.2564 352.3954 L 205.4703 352.3954 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 478.2789)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">S</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1551">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 354.9923 L 418.51603 354.9923 L 418.51603 380.09815 L 352.3228 380.09815 Z "/>
+</clipPath>
+<g clip-path="url(#cp1551)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 356.3228 376.0981 L 364.8746 376.0981 L 364.8746 352.3954 L 356.3228 352.3954 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 356.3228 478.2789)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">T</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1552">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 354.9923 L 552 354.9923 L 552 380.09815 L 485.758 380.09815 Z "/>
+</clipPath>
+<g clip-path="url(#cp1552)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 489.758 376.0981 L 533.426 376.0981 L 533.426 352.3954 L 489.758 352.3954 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 489.758 478.2789)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.2132008 14.1092009 22.6674 27.329401 35.8806">e=Y-TS</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1553">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 331.087 L 131.8377 331.087 L 131.8377 354.49229 L 85.55 354.49229 Z "/>
+</clipPath>
+<g clip-path="url(#cp1553)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 350.4923 L 96.55 350.4923 L 96.55 326.7896 L 89.55 326.7896 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 503.8847)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">1</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1554">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 331.087 L 200.9703 331.087 L 200.9703 354.49229 L 132.3377 354.49229 Z "/>
+</clipPath>
+<g clip-path="url(#cp1554)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159.654 350.4923 L 173.654 350.4923 L 173.654 326.7896 L 159.654 326.7896 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 159.654 503.8847)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">40</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1555">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 331.087 L 285.1296 331.087 L 285.1296 354.49229 L 201.4703 354.49229 Z "/>
+</clipPath>
+<g clip-path="url(#cp1555)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 350.4923 L 236.9703 350.4923 L 236.9703 326.7896 L 205.4703 326.7896 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 503.8847)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5 24.5">0,872</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1556">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 331.087 L 351.8228 331.087 L 351.8228 354.49229 L 285.6296 354.49229 Z "/>
+</clipPath>
+<g clip-path="url(#cp1556)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 299.4762 350.4923 L 337.9762 350.4923 L 337.9762 326.7896 L 299.4762 326.7896 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 299.4762 503.8847)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">45,871</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1557">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 331.087 L 418.51603 331.087 L 418.51603 354.49229 L 352.3228 354.49229 Z "/>
+</clipPath>
+<g clip-path="url(#cp1557)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 369.6694 350.4923 L 401.1694 350.4923 L 401.1694 326.7896 L 369.6694 326.7896 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 369.6694 503.8847)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5">38,97</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1558">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 331.087 L 485.258 331.087 L 485.258 354.49229 L 419.016 354.49229 Z "/>
+</clipPath>
+<g clip-path="url(#cp1558)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 439.887 350.4923 L 464.387 350.4923 L 464.387 326.7896 L 439.887 326.7896 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 439.887 503.8847)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">1,18</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1559">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 331.087 L 552 331.087 L 552 354.49229 L 485.758 354.49229 Z "/>
+</clipPath>
+<g clip-path="url(#cp1559)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 506.629 350.4923 L 531.129 350.4923 L 531.129 326.7896 L 506.629 326.7896 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 506.629 503.8847)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">6,02</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1560">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 307.1817 L 131.8377 307.1817 L 131.8377 330.58699 L 85.55 330.58699 Z "/>
+</clipPath>
+<g clip-path="url(#cp1560)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 326.587 L 96.55 326.587 L 96.55 302.8843 L 89.55 302.8843 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 527.79006)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">2</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1561">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 307.1817 L 200.9703 307.1817 L 200.9703 330.58699 L 132.3377 330.58699 Z "/>
+</clipPath>
+<g clip-path="url(#cp1561)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159.654 326.587 L 173.654 326.587 L 173.654 302.8843 L 159.654 302.8843 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 159.654 527.79006)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">60</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1562">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 307.1817 L 285.1296 307.1817 L 285.1296 330.58699 L 201.4703 330.58699 Z "/>
+</clipPath>
+<g clip-path="url(#cp1562)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 326.587 L 236.9703 326.587 L 236.9703 302.8843 L 205.4703 302.8843 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 527.79006)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5 24.5">1,314</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1563">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 307.1817 L 351.8228 307.1817 L 351.8228 330.58699 L 285.6296 330.58699 Z "/>
+</clipPath>
+<g clip-path="url(#cp1563)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 289.6296 326.587 L 328.1296 326.587 L 328.1296 302.8843 L 289.6296 302.8843 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 289.6296 527.79006)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">45,662</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1564">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 307.1817 L 418.51603 307.1817 L 418.51603 330.58699 L 352.3228 330.58699 Z "/>
+</clipPath>
+<g clip-path="url(#cp1564)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 366.1694 326.587 L 404.6694 326.587 L 404.6694 302.8843 L 366.1694 302.8843 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 366.1694 527.79006)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">43,046</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1565">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 307.1817 L 485.258 307.1817 L 485.258 330.58699 L 419.016 330.58699 Z "/>
+</clipPath>
+<g clip-path="url(#cp1565)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 439.887 326.587 L 464.387 326.587 L 464.387 302.8843 L 439.887 302.8843 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 439.887 527.79006)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">1,06</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1566">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 307.1817 L 552 307.1817 L 552 330.58699 L 485.758 330.58699 Z "/>
+</clipPath>
+<g clip-path="url(#cp1566)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 506.629 326.587 L 531.129 326.587 L 531.129 302.8843 L 506.629 302.8843 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 506.629 527.79006)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">3.44</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1567">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 283.2764 L 131.8377 283.2764 L 131.8377 306.68168 L 85.55 306.68168 Z "/>
+</clipPath>
+<g clip-path="url(#cp1567)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 302.6817 L 96.55 302.6817 L 96.55 278.9791 L 89.55 278.9791 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 551.6952)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">3</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1568">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 283.2764 L 200.9703 283.2764 L 200.9703 306.68168 L 132.3377 306.68168 Z "/>
+</clipPath>
+<g clip-path="url(#cp1568)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159.654 302.6817 L 173.654 302.6817 L 173.654 278.9791 L 159.654 278.9791 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 159.654 551.6952)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">50</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1569">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 283.2764 L 285.1296 283.2764 L 285.1296 306.68168 L 201.4703 306.68168 Z "/>
+</clipPath>
+<g clip-path="url(#cp1569)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 302.6817 L 236.9703 302.6817 L 236.9703 278.9791 L 205.4703 278.9791 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 551.6952)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5 24.5">1,099</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1570">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 283.2764 L 351.8228 283.2764 L 351.8228 306.68168 L 285.6296 306.68168 Z "/>
+</clipPath>
+<g clip-path="url(#cp1570)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 289.6296 302.6817 L 328.1296 302.6817 L 328.1296 278.9791 L 289.6296 278.9791 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 289.6296 551.6952)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">45,496</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1571">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 283.2764 L 418.51603 283.2764 L 418.51603 306.68168 L 352.3228 306.68168 Z "/>
+</clipPath>
+<g clip-path="url(#cp1571)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 366.1694 302.6817 L 404.6694 302.6817 L 404.6694 278.9791 L 366.1694 278.9791 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 366.1694 551.6952)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">47,122</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1572">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 283.2764 L 485.258 283.2764 L 485.258 306.68168 L 419.016 306.68168 Z "/>
+</clipPath>
+<g clip-path="url(#cp1572)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 439.887 302.6817 L 464.387 302.6817 L 464.387 278.9791 L 439.887 278.9791 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 439.887 551.6952)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">0,96</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1573">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 283.2764 L 552 283.2764 L 552 306.68168 L 485.758 306.68168 Z "/>
+</clipPath>
+<g clip-path="url(#cp1573)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 504.2979 302.6817 L 533.4601 302.6817 L 533.4601 278.9791 L 504.2979 278.9791 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 504.2979 551.6952)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 4.662 11.662001 15.162001 22.162">-1,79</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1574">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 259.3712 L 131.8377 259.3712 L 131.8377 282.77647 L 85.55 282.77647 Z "/>
+</clipPath>
+<g clip-path="url(#cp1574)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 278.7764 L 96.55 278.7764 L 96.55 255.0738 L 89.55 255.0738 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 575.60049)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">4</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1575">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 259.3712 L 200.9703 259.3712 L 200.9703 282.77647 L 132.3377 282.77647 Z "/>
+</clipPath>
+<g clip-path="url(#cp1575)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159.654 278.7764 L 173.654 278.7764 L 173.654 255.0738 L 159.654 255.0738 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 159.654 575.60049)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">30</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1576">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 259.3712 L 285.1296 259.3712 L 285.1296 282.77647 L 201.4703 282.77647 Z "/>
+</clipPath>
+<g clip-path="url(#cp1576)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 278.7764 L 236.9703 278.7764 L 236.9703 255.0738 L 205.4703 255.0738 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 575.60049)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5 24.5">0,715</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1577">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 259.3712 L 351.8228 259.3712 L 351.8228 282.77647 L 285.6296 282.77647 Z "/>
+</clipPath>
+<g clip-path="url(#cp1577)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 289.6296 278.7764 L 328.1296 278.7764 L 328.1296 255.0738 L 289.6296 255.0738 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 289.6296 575.60049)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">41,958</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1578">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 259.3712 L 418.51603 259.3712 L 418.51603 282.77647 L 352.3228 282.77647 Z "/>
+</clipPath>
+<g clip-path="url(#cp1578)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 366.1694 278.7764 L 404.6694 278.7764 L 404.6694 255.0738 L 366.1694 255.0738 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 366.1694 575.60049)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">51,197</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1579">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 259.3712 L 485.258 259.3712 L 485.258 282.77647 L 419.016 282.77647 Z "/>
+</clipPath>
+<g clip-path="url(#cp1579)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 439.887 278.7764 L 464.387 278.7764 L 464.387 255.0738 L 439.887 255.0738 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 439.887 575.60049)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">0,82</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1580">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 259.3712 L 552 259.3712 L 552 282.77647 L 485.758 282.77647 Z "/>
+</clipPath>
+<g clip-path="url(#cp1580)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 504.2979 278.7764 L 533.4601 278.7764 L 533.4601 255.0738 L 504.2979 255.0738 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 504.2979 575.60049)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 4.662 11.662001 15.162001 22.162">-6,60</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1581">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 235.4659 L 131.8377 235.4659 L 131.8377 258.87117 L 85.55 258.87117 Z "/>
+</clipPath>
+<g clip-path="url(#cp1581)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 254.8712 L 96.55 254.8712 L 96.55 231.1685 L 89.55 231.1685 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 599.5058)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">5</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1582">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 235.4659 L 200.9703 235.4659 L 200.9703 258.87117 L 132.3377 258.87117 Z "/>
+</clipPath>
+<g clip-path="url(#cp1582)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159.654 254.8712 L 173.654 254.8712 L 173.654 231.1685 L 159.654 231.1685 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 159.654 599.5058)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">50</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1583">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 235.4659 L 285.1296 235.4659 L 285.1296 258.87117 L 201.4703 258.87117 Z "/>
+</clipPath>
+<g clip-path="url(#cp1583)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 254.8712 L 236.9703 254.8712 L 236.9703 231.1685 L 205.4703 231.1685 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 599.5058)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5 24.5">0,872</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1584">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 235.4659 L 351.8228 235.4659 L 351.8228 258.87117 L 285.6296 258.87117 Z "/>
+</clipPath>
+<g clip-path="url(#cp1584)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 289.6296 254.8712 L 328.1296 254.8712 L 328.1296 231.1685 L 289.6296 231.1685 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 289.6296 599.5058)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">57,335</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1585">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 235.4659 L 418.51603 235.4659 L 418.51603 258.87117 L 352.3228 258.87117 Z "/>
+</clipPath>
+<g clip-path="url(#cp1585)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 366.1694 254.8712 L 404.6694 254.8712 L 404.6694 231.1685 L 366.1694 231.1685 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 366.1694 599.5058)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">55,273</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1586">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 235.4659 L 485.258 235.4659 L 485.258 258.87117 L 419.016 258.87117 Z "/>
+</clipPath>
+<g clip-path="url(#cp1586)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 439.887 254.8712 L 464.387 254.8712 L 464.387 231.1685 L 439.887 231.1685 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 439.887 599.5058)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">1,04</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1587">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 235.4659 L 552 235.4659 L 552 258.87117 L 485.758 258.87117 Z "/>
+</clipPath>
+<g clip-path="url(#cp1587)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 506.629 254.8712 L 531.129 254.8712 L 531.129 231.1685 L 506.629 231.1685 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 506.629 599.5058)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">1,80</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1588">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 211.5606 L 131.8377 211.5606 L 131.8377 234.96587 L 85.55 234.96587 Z "/>
+</clipPath>
+<g clip-path="url(#cp1588)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 230.9659 L 96.55 230.9659 L 96.55 207.2633 L 89.55 207.2633 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 623.41116)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">6</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1589">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 211.5606 L 200.9703 211.5606 L 200.9703 234.96587 L 132.3377 234.96587 Z "/>
+</clipPath>
+<g clip-path="url(#cp1589)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159.654 230.9659 L 173.654 230.9659 L 173.654 207.2633 L 159.654 207.2633 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 159.654 623.41116)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">80</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1590">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 211.5606 L 285.1296 211.5606 L 285.1296 234.96587 L 201.4703 234.96587 Z "/>
+</clipPath>
+<g clip-path="url(#cp1590)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 230.9659 L 236.9703 230.9659 L 236.9703 207.2633 L 205.4703 207.2633 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 623.41116)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5 24.5">1,314</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1591">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 211.5606 L 351.8228 211.5606 L 351.8228 234.96587 L 285.6296 234.96587 Z "/>
+</clipPath>
+<g clip-path="url(#cp1591)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 289.6296 230.9659 L 328.1296 230.9659 L 328.1296 207.2633 L 289.6296 207.2633 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 289.6296 623.41116)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">60,883</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1592">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 211.5606 L 418.51603 211.5606 L 418.51603 234.96587 L 352.3228 234.96587 Z "/>
+</clipPath>
+<g clip-path="url(#cp1592)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 366.1694 230.9659 L 404.6694 230.9659 L 404.6694 207.2633 L 366.1694 207.2633 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 366.1694 623.41116)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">59,349</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1593">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 211.5606 L 485.258 211.5606 L 485.258 234.96587 L 419.016 234.96587 Z "/>
+</clipPath>
+<g clip-path="url(#cp1593)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 439.887 230.9659 L 464.387 230.9659 L 464.387 207.2633 L 439.887 207.2633 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 439.887 623.41116)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">1,02</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1594">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 211.5606 L 552 211.5606 L 552 234.96587 L 485.758 234.96587 Z "/>
+</clipPath>
+<g clip-path="url(#cp1594)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 506.629 230.9659 L 531.129 230.9659 L 531.129 207.2633 L 506.629 207.2633 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 506.629 623.41116)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">2,01</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1595">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 187.6553 L 131.8377 187.6553 L 131.8377 211.06058 L 85.55 211.06058 Z "/>
+</clipPath>
+<g clip-path="url(#cp1595)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 207.0606 L 96.55 207.0606 L 96.55 183.358 L 89.55 183.358 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 647.3163)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">7</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1596">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 187.6553 L 200.9703 187.6553 L 200.9703 211.06058 L 132.3377 211.06058 Z "/>
+</clipPath>
+<g clip-path="url(#cp1596)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159.654 207.0606 L 173.654 207.0606 L 173.654 183.358 L 159.654 183.358 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 159.654 647.3163)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">70</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1597">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 187.6553 L 285.1296 187.6553 L 285.1296 211.06058 L 201.4703 211.06058 Z "/>
+</clipPath>
+<g clip-path="url(#cp1597)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 207.0606 L 236.9703 207.0606 L 236.9703 183.358 L 205.4703 183.358 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 647.3163)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5 24.5">1,099</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1598">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 187.6553 L 351.8228 187.6553 L 351.8228 211.06058 L 285.6296 211.06058 Z "/>
+</clipPath>
+<g clip-path="url(#cp1598)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 289.6296 207.0606 L 328.1296 207.0606 L 328.1296 183.358 L 289.6296 183.358 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 289.6296 647.3163)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">63,694</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1599">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 187.6553 L 418.51603 187.6553 L 418.51603 211.06058 L 352.3228 211.06058 Z "/>
+</clipPath>
+<g clip-path="url(#cp1599)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 366.1694 207.0606 L 404.6694 207.0606 L 404.6694 183.358 L 366.1694 183.358 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 366.1694 647.3163)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">63,425</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1600">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 187.6553 L 485.258 187.6553 L 485.258 211.06058 L 419.016 211.06058 Z "/>
+</clipPath>
+<g clip-path="url(#cp1600)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 439.887 207.0606 L 464.387 207.0606 L 464.387 183.358 L 439.887 183.358 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 439.887 647.3163)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">1,00</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1601">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 187.6553 L 552 187.6553 L 552 211.06058 L 485.758 211.06058 Z "/>
+</clipPath>
+<g clip-path="url(#cp1601)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 506.629 207.0606 L 531.129 207.0606 L 531.129 183.358 L 506.629 183.358 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 506.629 647.3163)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">0,29</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1602">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 163.7501 L 131.8377 163.7501 L 131.8377 187.15538 L 85.55 187.15538 Z "/>
+</clipPath>
+<g clip-path="url(#cp1602)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 183.1553 L 96.55 183.1553 L 96.55 159.4527 L 89.55 159.4527 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 671.2216)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">8</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1603">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 163.7501 L 200.9703 163.7501 L 200.9703 187.15538 L 132.3377 187.15538 Z "/>
+</clipPath>
+<g clip-path="url(#cp1603)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159.654 183.1553 L 173.654 183.1553 L 173.654 159.4527 L 159.654 159.4527 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 159.654 671.2216)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">50</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1604">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 163.7501 L 285.1296 163.7501 L 285.1296 187.15538 L 201.4703 187.15538 Z "/>
+</clipPath>
+<g clip-path="url(#cp1604)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 183.1553 L 236.9703 183.1553 L 236.9703 159.4527 L 205.4703 159.4527 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 671.2216)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5 24.5">0,715</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1605">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 163.7501 L 351.8228 163.7501 L 351.8228 187.15538 L 285.6296 187.15538 Z "/>
+</clipPath>
+<g clip-path="url(#cp1605)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 289.6296 183.1553 L 328.1296 183.1553 L 328.1296 159.4527 L 289.6296 159.4527 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 289.6296 671.2216)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">69,930</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1606">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 163.7501 L 418.51603 163.7501 L 418.51603 187.15538 L 352.3228 187.15538 Z "/>
+</clipPath>
+<g clip-path="url(#cp1606)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 366.1694 183.1553 L 404.6694 183.1553 L 404.6694 159.4527 L 366.1694 159.4527 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 366.1694 671.2216)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">67,501</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1607">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 163.7501 L 485.258 163.7501 L 485.258 187.15538 L 419.016 187.15538 Z "/>
+</clipPath>
+<g clip-path="url(#cp1607)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 439.887 183.1553 L 464.387 183.1553 L 464.387 159.4527 L 439.887 159.4527 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 439.887 671.2216)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">1,03</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1608">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 163.7501 L 552 163.7501 L 552 187.15538 L 485.758 187.15538 Z "/>
+</clipPath>
+<g clip-path="url(#cp1608)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 506.629 183.1553 L 531.129 183.1553 L 531.129 159.4527 L 506.629 159.4527 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 506.629 671.2216)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">1,73</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1609">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 139.8448 L 131.8377 139.8448 L 131.8377 163.25008 L 85.55 163.25008 Z "/>
+</clipPath>
+<g clip-path="url(#cp1609)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 159.2501 L 96.55 159.2501 L 96.55 135.5474 L 89.55 135.5474 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 695.1269)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0">9</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1610">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 139.8448 L 200.9703 139.8448 L 200.9703 163.25008 L 132.3377 163.25008 Z "/>
+</clipPath>
+<g clip-path="url(#cp1610)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159.654 159.2501 L 173.654 159.2501 L 173.654 135.5474 L 159.654 135.5474 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 159.654 695.1269)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">60</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1611">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 139.8448 L 285.1296 139.8448 L 285.1296 163.25008 L 201.4703 163.25008 Z "/>
+</clipPath>
+<g clip-path="url(#cp1611)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 159.2501 L 236.9703 159.2501 L 236.9703 135.5474 L 205.4703 135.5474 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 695.1269)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5 24.5">0,872</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1612">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 139.8448 L 351.8228 139.8448 L 351.8228 163.25008 L 285.6296 163.25008 Z "/>
+</clipPath>
+<g clip-path="url(#cp1612)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 289.6296 159.2501 L 328.1296 159.2501 L 328.1296 135.5474 L 289.6296 135.5474 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 289.6296 695.1269)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">68,807</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1613">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 139.8448 L 418.51603 139.8448 L 418.51603 163.25008 L 352.3228 163.25008 Z "/>
+</clipPath>
+<g clip-path="url(#cp1613)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 366.1694 159.2501 L 404.6694 159.2501 L 404.6694 135.5474 L 366.1694 135.5474 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 366.1694 695.1269)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">71,577</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1614">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 139.8448 L 485.258 139.8448 L 485.258 163.25008 L 419.016 163.25008 Z "/>
+</clipPath>
+<g clip-path="url(#cp1614)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 439.887 159.2501 L 464.387 159.2501 L 464.387 135.5474 L 439.887 135.5474 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 439.887 695.1269)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">0,96</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1615">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 139.8448 L 552 139.8448 L 552 163.25008 L 485.758 163.25008 Z "/>
+</clipPath>
+<g clip-path="url(#cp1615)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 504.2979 159.2501 L 533.4601 159.2501 L 533.4601 135.5474 L 504.2979 135.5474 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 504.2979 695.1269)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 4.662 11.662001 15.162001 22.162">-2,41</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1616">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 115.9395 L 131.8377 115.9395 L 131.8377 139.34477 L 85.55 139.34477 Z "/>
+</clipPath>
+<g clip-path="url(#cp1616)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 135.3448 L 103.55 135.3448 L 103.55 111.6422 L 89.55 111.6422 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 719.0322)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">10</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1617">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 115.9395 L 200.9703 115.9395 L 200.9703 139.34477 L 132.3377 139.34477 Z "/>
+</clipPath>
+<g clip-path="url(#cp1617)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 156.154 135.3448 L 177.154 135.3448 L 177.154 111.6422 L 156.154 111.6422 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 156.154 719.0322)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14">100</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1618">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 115.9395 L 285.1296 115.9395 L 285.1296 139.34477 L 201.4703 139.34477 Z "/>
+</clipPath>
+<g clip-path="url(#cp1618)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 135.3448 L 236.9703 135.3448 L 236.9703 111.6422 L 205.4703 111.6422 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 719.0322)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5 24.5">1,314</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1619">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 115.9395 L 351.8228 115.9395 L 351.8228 139.34477 L 285.6296 139.34477 Z "/>
+</clipPath>
+<g clip-path="url(#cp1619)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 289.6296 135.3448 L 328.1296 135.3448 L 328.1296 111.6422 L 289.6296 111.6422 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 289.6296 719.0322)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">76,103</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1620">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 115.9395 L 418.51603 115.9395 L 418.51603 139.34477 L 352.3228 139.34477 Z "/>
+</clipPath>
+<g clip-path="url(#cp1620)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 366.1694 135.3448 L 404.6694 135.3448 L 404.6694 111.6422 L 366.1694 111.6422 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 366.1694 719.0322)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">75,652</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1621">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 115.9395 L 485.258 115.9395 L 485.258 139.34477 L 419.016 139.34477 Z "/>
+</clipPath>
+<g clip-path="url(#cp1621)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 439.887 135.3448 L 464.387 135.3448 L 464.387 111.6422 L 439.887 111.6422 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 439.887 719.0322)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">1,00</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1622">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 115.9395 L 552 115.9395 L 552 139.34477 L 485.758 139.34477 Z "/>
+</clipPath>
+<g clip-path="url(#cp1622)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 506.629 135.3448 L 531.129 135.3448 L 531.129 111.6422 L 506.629 111.6422 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 506.629 719.0322)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">0,59</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1623">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 92.03425 L 131.8377 92.03425 L 131.8377 115.439517 L 85.55 115.439517 Z "/>
+</clipPath>
+<g clip-path="url(#cp1623)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 111.4395 L 103.0305 111.4395 L 103.0305 87.73688 L 89.55 87.73688 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 742.93746)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.4806005">11</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1624">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 92.03425 L 200.9703 92.03425 L 200.9703 115.439517 L 132.3377 115.439517 Z "/>
+</clipPath>
+<g clip-path="url(#cp1624)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159.654 111.4395 L 173.654 111.4395 L 173.654 87.73688 L 159.654 87.73688 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 159.654 742.93746)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">80</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1625">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 92.03425 L 285.1296 92.03425 L 285.1296 115.439517 L 201.4703 115.439517 Z "/>
+</clipPath>
+<g clip-path="url(#cp1625)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 111.4395 L 236.9703 111.4395 L 236.9703 87.73688 L 205.4703 87.73688 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 742.93746)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5 24.5">1,099</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1626">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 92.03425 L 351.8228 92.03425 L 351.8228 115.439517 L 285.6296 115.439517 Z "/>
+</clipPath>
+<g clip-path="url(#cp1626)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 289.6296 111.4395 L 328.1296 111.4395 L 328.1296 87.73688 L 289.6296 87.73688 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 289.6296 742.93746)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">72,793</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1627">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 92.03425 L 418.51603 92.03425 L 418.51603 115.439517 L 352.3228 115.439517 Z "/>
+</clipPath>
+<g clip-path="url(#cp1627)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 366.1694 111.4395 L 404.6694 111.4395 L 404.6694 87.73688 L 366.1694 87.73688 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 366.1694 742.93746)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">79,728</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1628">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 92.03425 L 485.258 92.03425 L 485.258 115.439517 L 419.016 115.439517 Z "/>
+</clipPath>
+<g clip-path="url(#cp1628)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 439.887 111.4395 L 464.387 111.4395 L 464.387 87.73688 L 439.887 87.73688 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 439.887 742.93746)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">0,91</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1629">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 92.03425 L 552 92.03425 L 552 115.439517 L 485.758 115.439517 Z "/>
+</clipPath>
+<g clip-path="url(#cp1629)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 504.2979 111.4395 L 533.4601 111.4395 L 533.4601 87.73688 L 504.2979 87.73688 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 504.2979 742.93746)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 4.662 11.662001 15.162001 22.162">-7,62</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1630">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 85.55 68.12897 L 131.8377 68.12897 L 131.8377 91.53424 L 85.55 91.53424 Z "/>
+</clipPath>
+<g clip-path="url(#cp1630)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 89.55 87.53425 L 103.55 87.53425 L 103.55 63.83161 L 89.55 63.83161 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89.55 766.8427)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">12</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1631">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 132.3377 68.12897 L 200.9703 68.12897 L 200.9703 91.53424 L 132.3377 91.53424 Z "/>
+</clipPath>
+<g clip-path="url(#cp1631)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 159.654 87.53425 L 173.654 87.53425 L 173.654 63.83161 L 159.654 63.83161 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 159.654 766.8427)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7">60</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1632">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 201.4703 68.12897 L 285.1296 68.12897 L 285.1296 91.53424 L 201.4703 91.53424 Z "/>
+</clipPath>
+<g clip-path="url(#cp1632)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 205.4703 87.53425 L 236.9703 87.53425 L 236.9703 63.83161 L 205.4703 63.83161 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 205.4703 766.8427)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5 24.5">0,715</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1633">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 68.12897 L 351.8228 68.12897 L 351.8228 91.53424 L 285.6296 91.53424 Z "/>
+</clipPath>
+<g clip-path="url(#cp1633)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 289.6296 87.53425 L 328.1296 87.53425 L 328.1296 63.83161 L 289.6296 63.83161 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 289.6296 766.8427)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">83,916</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1634">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 352.3228 68.12897 L 418.51603 68.12897 L 418.51603 91.53424 L 352.3228 91.53424 Z "/>
+</clipPath>
+<g clip-path="url(#cp1634)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 366.1694 87.53425 L 404.6694 87.53425 L 404.6694 63.83161 L 366.1694 63.83161 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 366.1694 766.8427)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 14 17.5 24.5 31.5">83,804</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1635">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 68.12897 L 485.258 68.12897 L 485.258 91.53424 L 419.016 91.53424 Z "/>
+</clipPath>
+<g clip-path="url(#cp1635)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 439.887 87.53425 L 464.387 87.53425 L 464.387 63.83161 L 439.887 63.83161 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 439.887 766.8427)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">1,00</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+</g>
+<clipPath id="cp1636">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 485.758 68.12897 L 552 68.12897 L 552 91.53424 L 485.758 91.53424 Z "/>
+</clipPath>
+<g clip-path="url(#cp1636)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 506.629 87.53425 L 531.129 87.53425 L 531.129 63.83161 L 506.629 63.83161 Z " fill="#ffffff"/>
+<g id="Layer-5" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 506.629 766.8427)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7 10.5 17.5">0,08</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<clipPath id="cp1637">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 83.3 66.34807 L 554.3 66.34807 L 554.3 382.34809 L 83.3 382.34809 Z "/>
+</clipPath>
+<g clip-path="url(#cp1637)">
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 48.7877 1.5 L 48.7877 314.9691 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 117.9203 1.5 L 117.9203 314.9691 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 202.0796 1.5 L 202.0796 314.9691 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 268.7728 1.5 L 268.7728 314.9691 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 335.466 1.5 L 335.466 314.9691 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 402.208 1.5 L 402.208 314.9691 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 27.60582 L 469.45 27.60582 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 51.51109 L 469.45 51.51109 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 75.41636 L 469.45 75.41636 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 99.32164 L 469.45 99.32164 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 123.2269 L 469.45 123.2269 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 147.1322 L 469.45 147.1322 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 171.0375 L 469.45 171.0375 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 194.9427 L 469.45 194.9427 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 218.848 L 469.45 218.848 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 242.7533 L 469.45 242.7533 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 266.6585 L 469.45 266.6585 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 290.5638 L 469.45 290.5638 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 314.4691 L 469.45 314.4691 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 2 1.5 L 2 314.9691 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 468.95 1.5 L 468.95 314.9691 "/>
+<path transform="matrix(1,0,0,1,83.3,459.6519)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 1.5 2 L 469.45 2 "/>
+</g>
+</g>
+</g>
+<clipPath id="cp1638">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 419.016 354.9923 L 484.64439 354.9923 L 484.64439 380.09815 L 419.016 380.09815 Z "/>
+</clipPath>
+<g clip-path="url(#cp1638)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 422.3 376.3481 L 477.3671 376.3481 L 477.3671 350.4427 L 422.3 350.4427 Z " fill="#ffffff"/>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 422.3 478.8237)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="7.509453 15.405453 25.516255 29.405455 34.067457 42.618658 50.405458">=Y/(TS)</tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<clipPath id="cp1639">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 422.7276 363.0052 L 429.26203 363.0052 L 429.26203 371.04493 L 422.7276 371.04493 Z "/>
+</clipPath>
+<g clip-path="url(#cp1639)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 422.3 491.9956)" font-size="17.10582" font-family="STIXGeneral"><tspan y="-13.17181" x="0">&#x03b5;</tspan></text>
+</g>
+</g>
+<clipPath id="cp1640">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 285.6296 354.9923 L 351.59559 354.9923 L 351.59559 380.09815 L 285.6296 380.09815 Z "/>
+</clipPath>
+<g clip-path="url(#cp1640)">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 289.3 376.3481 L 335.0429 376.3481 L 335.0429 350.4427 L 289.3 350.4427 Z " fill="#ffffff"/>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 289.3 478.8237)" font-size="14" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 10.110801 14.000001 21.786803 29.682803">Y/S=T</tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<clipPath id="cp1641">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 327.961 363.0052 L 334.49543 363.0052 L 334.49543 371.04493 L 327.961 371.04493 Z "/>
+</clipPath>
+<g clip-path="url(#cp1641)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 327.5334 491.9956)" font-size="17.10582" font-family="STIXGeneral"><tspan y="-13.17181" x="0">&#x03b5;</tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<g id="Layer-2" data-name="Span">
+</g>
+<clipPath id="cp1642">
+<path transform="matrix(1,0,0,-1,0,842)" d="M 82.3 30.22227 L 555.25 30.22227 L 555.25 61.722269 L 82.3 61.722269 Z "/>
+</clipPath>
+<g clip-path="url(#cp1642)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 313.1998 790.85)" font-size="11" font-family="Calibri"><tspan y="0" x="11.15039"> </tspan></text>
+</g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 313.1998 790.85)" font-size="11" font-family="Calibri"><tspan y="0" x="0 5.5748007">40</tspan></text>
+</g>
+</g>
+</g>
+</svg>
