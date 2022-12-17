@@ -16,20 +16,20 @@ import Button from "@mui/material/Button";
 import Router from "../../routes/Router";
 import { NavLink } from "react-router-dom";
 
-const drawerWidth = 240;
+const drawerWidth = 260;
 const navItems = [
-  { id: 1, name: "Tutorial", path: "/tutorial" },
-  { id: 2, name: "Presentation", path: "/presentation" },
-  { id: 3, name: "Lecture", path: "/lecture" },
-  { id: 4, name: "Guidlinies", path: "/guidlinies" },
-  { id: 5, name: "Syllabus", path: "/syllabus" },
-  { id: 6, name: "Practice", path: "/practice" },
-  { id: 7, name: "Glossaries", path: "/glossaries" },
-  { id: 8, name: "About Creator", path: "/about" },
+  { id: 1, name: "Презентации", path: "/presentation" },
+  { id: 2, name: "Практические занятия", path: "/practice" },
+  { id: 3, name: "Тексты лексии", path: "/lecture" },
+  { id: 4, name: "Методические указании", path: "/guidlinies" },
+  { id: 5, name: "Учебные пособие", path: "/tutorial" },
+  { id: 6, name: "Глоссарий", path: "/glossaries" },
+  { id: 7, name: "Силлабус", path: "/syllabus" },
+  { id: 8, name: "О нас", path: "/about" },
 ];
 
 function DrawerAppBar(props) {
-  const nameOfWebApp = "Ekonometrika";
+  const nameOfWebApp = "Эконометрика";
 
   const { window } = props;
   const [mobileOpen, setMobileOpen] = React.useState(false);
@@ -70,21 +70,20 @@ function DrawerAppBar(props) {
             aria-label="open drawer"
             edge="start"
             onClick={handleDrawerToggle}
-            sx={{ mr: 2, display: { md: "none" } }}
+            sx={{ mr: 2, display: { lg: "none" } }}
           >
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+          <Typography variant="h6" component="div" sx={{ flexGrow: 1, fontSize: "35px" }}>
             {nameOfWebApp}
           </Typography>
-          <Box sx={{ display: { xs: "none", md: "block" } }}>
+          <Box sx={{ display: { xs: "none", lg: "block" } }}>
             {navItems.map((item) => (
               <NavLink
                 key={item.id}
-                className="hover:scale-[1.2] ease-in-out text-[12px]"
                 to={item.path}
               >
-                <Button sx={{ color: "#fff" }}>{item.name}</Button>
+                <Button  sx={{ color: "#fff", fontSize: "10px" }}>{item.name}</Button>
               </NavLink>
             ))}
           </Box>
@@ -100,7 +99,7 @@ function DrawerAppBar(props) {
             keepMounted: true, // Better open performance on mobile.
           }}
           sx={{
-            display: { xs: "block", md: "none" },
+            display: { xs: "block", lg: "none" },
             "& .MuiDrawer-paper": {
               boxSizing: "border-box",
               width: drawerWidth,

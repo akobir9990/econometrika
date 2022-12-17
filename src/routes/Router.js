@@ -4,8 +4,9 @@ import HomePage from "../pages/home";
 import Tutorial from "../pages/tutorial";
 import Syllabus from "../pages/syllabus";
 import Presentation from "../pages/presentation";
+import Lecture from "../pages/lecture";
 import Practice from "../pages/practice";
-import Guidline from "../pages/guidlines";
+import Guidlines from "../pages/guidlines";
 import Glossaries from "../pages/glossaries";
 import NotFoundPage from "../pages/notFoundPage";
 
@@ -17,10 +18,11 @@ function Router() {
         <Route path="/tutorial" element={<Tutorial />} />
         <Route path="/syllabus" element={<Syllabus />} />
         <Route path="/presentation" element={<Presentation />} />
+        <Route path="/lecture" element={<Lecture />} />
         <Route path="/practice" element={<Practice />} />
-        <Route path="/guidline" element={<Guidline />} />
+        <Route path="/guidlines" element={<Guidlines />} />
         <Route path="/glossaries" element={<Glossaries />} />
-        <Route path="/*" element={<NotFoundPage />} />
+        <Route path="*" element={<NotFoundPage />} />
       </Routes>
     </div>
   );
