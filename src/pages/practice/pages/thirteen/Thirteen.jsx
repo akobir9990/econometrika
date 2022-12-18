@@ -18,9 +18,9 @@ function index() {
   return (
     <div>
       <div className="flex justify-between">
-        <h1> practice 13</h1>
+        <h1 className="uppercase text-4xl font-bold"> занятия 13</h1>
         <NavLink to="/practice">
-          <Button variant="outlined">go to back</Button>
+          <Button variant="outlined">назад</Button>
         </NavLink>
       </div>
       <div>
